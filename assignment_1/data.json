@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Reference Book",
+    "category": "Stationery",
+    "price": 400,
+    "available": false
+  },
+  {
+    "id": 2,
+    "name": "Ball",
+    "category": "Sports",
+    "price": 800,
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Pen",
+    "category": "Stationery",
+    "price": 50,
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Badminton Racket",
+    "category": "Sports",
+    "price": 300,
+    "available": true
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "main": "notes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Mongodb",
+    "JavaScript"
+  ],
+  "author": "Bhawna Gunwani",
+  "license": "ISC",
+  "description": "This is my test project",
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  }
+}
